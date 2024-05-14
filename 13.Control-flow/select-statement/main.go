@@ -37,5 +37,4 @@ func main() {
 	case v2 := <-ch2:
 		fmt.Println("value from channel 2 ", v2)
 	}
-
 }
