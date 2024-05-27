@@ -12,4 +12,5 @@ func main() {
 	//we can access the values by one by one
 	fmt.Println(s[0])
 	fmt.Println(s[1])
+	
 }

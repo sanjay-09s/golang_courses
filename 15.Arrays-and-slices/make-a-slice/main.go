@@ -29,5 +29,4 @@ func main() {
 	fmt.Println(yi)
 	fmt.Println(len(yi))
 	fmt.Println(cap(yi))
-
 }
